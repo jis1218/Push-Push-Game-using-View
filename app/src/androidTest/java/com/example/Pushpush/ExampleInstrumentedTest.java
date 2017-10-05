@@ -1,4 +1,4 @@
-package com.example.tetris;
+package com.example.Pushpush;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.tetris", appContext.getPackageName());
+        assertEquals("com.example.Pushpush", appContext.getPackageName());
     }
 }

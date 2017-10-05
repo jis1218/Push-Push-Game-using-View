@@ -1,4 +1,4 @@
-package com.example.tetris;
+package com.example.Pushpush;
 
 import org.junit.Test;
 

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.tetris.MainActivity">
+    tools:context="com.example.Pushpush.MainActivity">
 
     <Button
         android:id="@+id/btnLeft"
@@ -55,12 +55,6 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <FrameLayout
-            android:id="@+id/sample"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-        </FrameLayout>
     </FrameLayout>
 
     <Button
